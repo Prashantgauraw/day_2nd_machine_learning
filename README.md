@@ -1,1 +1,1 @@
-# day_2nd_machine_learning
+# day_2nd_machine_learning_simple_regression
